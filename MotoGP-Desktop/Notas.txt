@@ -1,0 +1,15 @@
+Dudas:
+1.- Los enlaces a MotoGP y Luca Marini wiki
+debería ponerlos en algún párrafo cómo
+este...? (Supongo que podría ser válido)
+2.- El enlace al index puesto en el h1 debería
+ponerlo también en index.html?
+(Creo que no)
+3.- En el ejercicio 10, color de texto y 
+color de primer plano son lo mismo?
+(Yo creería que sí)
+4.- En el caso de h1 y nav, a los que les quería
+aplicar el mismo color, debería ponerlos con
+comas en la misma regla o separarlos en dos?
+(Supongo que se pueden poner en la misma
+y luego poner reglas adicionales individuales si hace falta)
